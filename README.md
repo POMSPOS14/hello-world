@@ -1,2 +1,2 @@
 # hello-world
-Testin git features.
+Just testing git features.
